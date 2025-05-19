@@ -11,6 +11,8 @@ Bruno Gomes Ascenso
 
 Danilo Augusto Gonçalves da Silva 
 
+Esmael kugelmeier Tondello
+
 Tecnologias Utilizadas
 Backend: Node.js com Express
 API hospedada no OnRender
